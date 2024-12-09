@@ -1,0 +1,15 @@
+PS C:\Users\Nilesh\Desktop\Python Django Development internship> & C:/NILESHPP/python/python.exe "c:/Users/Nilesh/Desktop/Python Django Development internship/assignment.py"
+
+[(1, 'Alice', 'alice@example.com'), (2, 'Bob', 'bob@example.com'), (3, 'Charlie', 'charlie@example.com'), (4, 'David', 'david@example.com'), (5, 'Eve', 'eve@example.com'), (6, 'Frank', 'frank@example.com'), (7, 'Grace', 'grace@example.com'), (8, 'Alice', 'alice@example.com'), (9, 'Henry', 'henry@example.com'), (10, 'Jane', 'jane@example.com')]
+
+ Users data inserted successfully
+
+[(1, 'Laptop', 1000.0), (2, 'Smartphone', 700.0), (3, 'Headphones', 150.0), (4, 'Monitor', 300.0), (5, 'Keyboard', 50.0), (6, 'Mouse', 30.0), (7, 'Laptop', 1000.0), (8, 'Smartwatch', 250.0), (9, 'Gaming Chair', 500.0), (10, 'Earbuds', 50.0)]
+
+ Products data inserted successfully
+
+[(1, 1, 1, 2), (2, 2, 2, 1), (3, 3, 3, 5), (4, 4, 4, 1), (5, 5, 5, 1), (6, 6, 6, 7), (7, 7, 7, 8), (8, 8, 8, 9), (9, 9, 9, 10), (10, 10, 10, 11)]
+
+ Orders data inserted successfully
+
+Data inserted successfully!
